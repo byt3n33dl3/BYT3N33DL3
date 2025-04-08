@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://twitter.com/byt3n33dl3"><img alt="Twitter/X" src="https://img.shields.io/twitter/follow/byt3n33dl3">
-  <a href="https://github.com/byt3n33dl3"><img alt="Mastadon" src="https://img.shields.io/github/followers/byt3n33dl3">
-  <a href="https://www.youtube.com/@byt3n33dl3"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC3mS_izQcdyu-9nyT827SnA">
+  <a href="https://leetcode.com/u/byt3n33dl3/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#ffffff">
+  <a href="https://github.com/byt3n33dl3"><img alt="GitHub" src="https://img.shields.io/github/followers/byt3n33dl3">
 </p>
