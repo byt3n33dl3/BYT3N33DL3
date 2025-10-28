@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <link rel="icon" type="image/x-icon" href="/h/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Bugcrowd Hacker Portal</title>
+    <script nonce="4e689ab22d5d86f287c7a0d9da5749cf">
+        globalThis.import_meta_env = JSON.parse('{"APP_LOGIN_URL":"https:\u002F\u002Fidentity.bugcrowd.com\u002Flogin","APP_OKTA_ENABLED":"true","APP_OIDC_ISSUER":"https:\u002F\u002Flogin.hackers.bugcrowd.com\u002Foauth2\u002Fdefault","APP_OIDC_CLIENT_ID":"0oa1x3bgzs0UtVyhw1d8","DEPLOYED_IMAGE_TAG":"2025-10-21_21-42","CC_BASE_URL":"https:\u002F\u002Fbugcrowd.com","VITE_FRESHDESK_WIDGET_ID":"73000001938"}');
+    </script>
+  <meta property="csp-nonce" nonce="4e689ab22d5d86f287c7a0d9da5749cf">
+  <script type="module" crossorigin src="/h/assets/index-DnuDmmBY.js" nonce="4e689ab22d5d86f287c7a0d9da5749cf"></script>
+  <link rel="stylesheet" crossorigin href="/h/assets/index-CEs88dND.css" nonce="4e689ab22d5d86f287c7a0d9da5749cf">
+</head>
+
+<body class="bc-body bc-grid bc-theme">
+<div id="root" class="hu-container-grid"></div>
+</body>
+
+</html>
