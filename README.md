@@ -9,5 +9,4 @@
 
 <p align="center">
   <a href="https://twitter.com/byt3n33dl3"><img alt="Twitter/X" src="https://img.shields.io/twitter/follow/byt3n33dl3">
-  <a href="https://github.com/byt3n33dl3"><img alt="GitHub" src="https://img.shields.io/github/followers/byt3n33dl3">
 </p>
